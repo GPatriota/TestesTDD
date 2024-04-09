@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Nova pasta\\NewTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42534BC1-030D-4E5E-8202-11721E92E39C}|TesteNewTalent\\TesteNewTalent.csproj|c:\\users\\user\\desktop\\nova pasta\\newtalents\\testenewtalent\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42534BC1-030D-4E5E-8202-11721E92E39C}|TesteNewTalent\\TesteNewTalent.csproj|solutionrelative:testenewtalent\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EED9776-E973-45C3-8267-822F6DB718CD}|NewTalents\\NewTalents.csproj|c:\\users\\user\\desktop\\nova pasta\\newtalents\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EED9776-E973-45C3-8267-822F6DB718CD}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EED9776-E973-45C3-8267-822F6DB718CD}|NewTalents\\NewTalents.csproj|c:\\users\\user\\desktop\\nova pasta\\newtalents\\newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EED9776-E973-45C3-8267-822F6DB718CD}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nova pasta\\NewTalents\\NewTalents\\Program.cs",
+              "RelativeDocumentMoniker": "NewTalents\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nova pasta\\NewTalents\\NewTalents\\Program.cs",
+              "RelativeToolTip": "NewTalents\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:06:45.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nova pasta\\NewTalents\\NewTalents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "NewTalents\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nova pasta\\NewTalents\\NewTalents\\Calculadora.cs",
+              "RelativeToolTip": "NewTalents\\Calculadora.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:42:42.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nova pasta\\NewTalents\\TesteNewTalent\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TesteNewTalent\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nova pasta\\NewTalents\\TesteNewTalent\\UnitTest1.cs",
+              "RelativeToolTip": "TesteNewTalent\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:33:11.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
